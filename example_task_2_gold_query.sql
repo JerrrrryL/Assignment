@@ -1,0 +1,2 @@
+-- This query violates business rule ID = 64 becuase the total removed tuples from the database is over 100 rows
+-- Therefore, the query must be rejected by the agent
