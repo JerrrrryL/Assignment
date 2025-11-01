@@ -42,6 +42,6 @@ psql -d labor_certification
 SELECT * FROM employer LIMIT 10;
 ```
 
-## How to Submit the Assignment
+# How to Submit the Assignment
 
 Zip your repo and email it to jl6235@columbia.edu along with your resume!
