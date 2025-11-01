@@ -42,9 +42,6 @@ psql -d labor_certification
 SELECT * FROM employer LIMIT 10;
 ```
 
-## Test Python Connection
+## How to Submit the Assignment
 
-```bash
-# Make sure venv is activated first
-python3 example.py
-```
+Zip your repo and email it to jl6235@columbia.edu along with your resume!
