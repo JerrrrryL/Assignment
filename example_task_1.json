@@ -1,0 +1,6 @@
+{
+    "request" : "Show all attorneys who represent H-1B dependent employers and calculate their Attorney Case Load (ACL) and Attorney Success Rate (ASR). Include the employer name, attorney email, total number of cases, number of certified cases, and approval rate. Only show attorneys with at least 2 cases.",
+    "database": "labor_certification",
+    "column_meaning": "data/labor_certification_applications/labor_certification_applications_column_meaning_base.json",
+    "knowledge_base": "data/labor_certification_applications/labor_certification_applications_kb.jsonl"
+}

@@ -1,0 +1,6 @@
+{
+    "request" : "Due to recent budget constraints, we need to lay off some attorneys. Find attorneys with low Attorney Case Load (less than or equal to 3 cases) who exclusively represent H-1B dependent employers and only handle H-1B visa applications.",
+    "database": "labor_certification",
+    "column_meaning": "data/labor_certification_applications/labor_certification_applications_column_meaning_base.json",
+    "knowledge_base": "data/labor_certification_applications/labor_certification_applications_kb.jsonl"
+}

@@ -52,7 +52,6 @@ env/
 # Export files
 *.csv
 *.xlsx
-*.json
 !data/**/*.json
 
 # Logs
